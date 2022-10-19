@@ -1,7 +1,6 @@
 # LeeJx2
 ## ✨ Hello World 
 - Hi, I’m @LeeJx12
-- I’m working in Bizwell R&D(2019 ~)
 - I’m currently learning how to use Github😭
 - I’m looking to collaborate on Large-scale service
 - How to reach me >> saverorevas@naver.com
