@@ -4,7 +4,7 @@
 
 - 🏢 현재: Tech Lead @ 라이프엑스 (구 휴먼스케이프, MX 사업부 Engineering Team)
 - 🔍 관심 영역: Full-Stack Architecture, Cloud-Native Systems, AI-Augmented Development
-- ✍️ 블로그: 업데이트 예정
+- ✍️ 블로그: [https://velog.io/@saverorevas](https://velog.io/@saverorevas)
 - 📮 Contact: saverorevas@naver.com
 
 ## What I've been working on
